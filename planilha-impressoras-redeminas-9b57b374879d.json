@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "planilha-impressoras-redeminas",
+  "private_key_id": "9b57b374879d2c46f7c54d76145f52c88ea441e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDlVcIhJ76jhcXd\nt1ZwIxgmzjobAJnKOGrqYaV5ac8LMsIRZ0Q6aREhpCd2eLRylKV2bXnacwd7JRQL\n4kR0abj5z+hs7+Iqvw1TXLK1HFSqofakjKzqrxdQwZzL99eP0nGlSa1nGTjyYlne\n3zfPYPOPI06WdDQPVH9txa3T6dK67po2NkBKZOaAR5+eXhq3NIcpyeikEOu4QMZD\nNAPEYgRoNX9GeJd4JWXxiZPTAXXxqmdPncAndRslMLclPOhmVkf1+PTgSNSFKCXu\nxyl5p/poo9dO5CNNeF/M11baS8ZsTF73iCF+fPKwDmPSkH3HbeuPoznnXQ8IEQIU\nqkz0bwFPAgMBAAECggEAITTxNp7MJl5c37VH0VXrjdbnp/hGzHat2IFKFhIBlkQD\nwMRcpz6GagIcarWgn0SxzrucXMqyJx0f0XayZc7XJ2j45Sk47OqcEdmG0N2ozspD\n7eCmuxaeQCXAv/IDpwIYTZAlCRwoWERwceqNaLxHmA7LNtLdpOidyPXKLTiauFFF\nGNPSuN3ibvPiGdgpxeh5gM1ywc2uKGPGCu/6LUEAKvph8LEtDPE5eRHwYOEX+LtB\nlO0dciAc5qZh9fjrDJ34xvDiJKm4QRkmSJCsTvXuzL87JeQEP6dhmJmAgWya3MAf\ncWlTcNeuYdj1xH4q/XbYn8+UqIkTabur1TPc9bpnMQKBgQD3Y/OEdIXGwB5CQUa2\n9OA0lPG19AF4pFUzey+NzzOCnHciGBHz2ihWgqt2CCaEBVABnHn0rxBs0CbZtk0r\nJOqIByik15qdVdKBoeBKnINIDhRUpHPnOsAAe774yaaZeCp8pkinMduulUpfHPQG\nssJr1Jy2g1/oe4aTh6qKxNCG8QKBgQDtUPKcMxafGc/Mi0F1Gn9k4MJ3XWdo4Oh/\n8g+SgcFHS+JF2A6saJRrBrKXD0wQeslYkgiUCgctZq/8zFkm7JqjkZb4aSeWkVF6\nHaOUUoBG91nlZiQnvcCGtDhffy5mm5f4sauv7Olet35w7f7IsletrpVbt63km8Ds\niaKWpHKMPwKBgQCB95KxnX3CYqAC8sQxzggT18P8cUpslPjl6OuctqQ7E/RKhxa3\nY38Zo+BsS+/gH+JeVlSDxYz9fYVLj0iPR/+mowwpPdPOoI3M6LwqtnsJ2cu4hAUY\nD3dbSaeUkGvj6It5nOpCXCErYOcHfPB+rF8Tw0jpYa97NZoH25gu+yMKIQKBgQC/\nFtY0BkMp21vipSMRC0QXU4/jE5fn8GnmVGBLpSWfpi/N85plI1SXFW6KimvCPUyR\ngA1ePvDmkvAUi+shl5UxLlM1NV8GM3866FDGZuQZwKRnPibQxU8YaFeYNc2EG7d0\nLoRDhW2osfIjNtBYhJprJM/paW6hTPU8wdrkmAgQewKBgQC3rcl46vuw9p61CyyN\nkh2mBvP62za+0QhZ+/NAyKgP2Mbsd1zZZu4M6ZkUXfavuDuEb1Df2vV2RtdFozC/\nn5MW9pOOwdkXt6T1eghfgbrCZw2nRQgOetynk3QFad3jqZbrxkLS86E9Ul7oJfoU\nR3+YZUmOvwnkoTmHdZ7PUcMrvw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "preencherplanilha@planilha-impressoras-redeminas.iam.gserviceaccount.com",
+  "client_id": "102305770771525581466",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/preencherplanilha%40planilha-impressoras-redeminas.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
